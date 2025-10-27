@@ -1,9 +1,9 @@
-    import java.util.Scanner;
+import java.util.Scanner;
 
-    public class Main {
-        public static void main(String[] args) {
-            Scanner keyboard = new Scanner(System.in);
-            int salary;
+public class Main {
+    public static void main(String[] args) {
+        Scanner keyboard = new Scanner(System.in);
+        int salary;
         int tax;
 
         System.out.print("임금 입력(1 ~ 30000000) : ");
